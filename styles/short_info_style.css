@@ -7,11 +7,13 @@
   font-weight: 500;
 }
 .short_info_wrap {
-  margin: 1000px 0;
+  margin: 1000px 0 0 0;
   height: 555px;
   width: 100%;
   background-image: url(/imiges/short_info.jpg);
   display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .in {
   width: 1280px;
