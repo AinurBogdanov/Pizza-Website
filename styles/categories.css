@@ -13,9 +13,13 @@
   text-align: right;
   box-sizing: border-box;
   color: white;
-  font-size: 30px;
+  font-size: 35px;
   text-decoration: none;
   line-height: 49px;
+  text-transform: uppercase;
+}
+.categories .item:hover {
+  opacity: 0.8;
 }
 
 .item_1 {
@@ -29,22 +33,26 @@
   width: 610px;
   height: 419px;
   margin-left: 20px;
+  padding: 20px 20px 0 400px;
 }
 .item_3 {
   background-image: url(/imiges/bg_category_3.jpg);
   width: 405px;
   height: 419px;
   margin-top: 30px;
+  padding: 15px 25px 0 0;
 }
 .item_4 {
   background-image: url(/imiges/bg_category_4.jpg);
   width: 405px;
   height: 419px;
   margin: 30px 0 0 10px;
+  padding: 15px 25px 0 0;
 }
 .item_5 {
   background-image: url(/imiges/bg_category_5.jpg);
   width: 405px;
   height: 419px;
   margin: 30px 0 0 10px;
+  padding: 15px 25px 0 0;
 }

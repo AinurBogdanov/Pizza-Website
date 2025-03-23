@@ -17,8 +17,15 @@ body {
 }
 @font-face {
   font-family: "Open Sans";
+  src: url(/Open_Sans/OpenSans-Medium.woff2) format("wof2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Open Sans";
   src: url(/Open_Sans/OpenSans-Bold.woff2) format("wof2");
-  font-style: bold;
+  font-style: normal;
   font-weight: 700;
   font-display: swap;
 }
